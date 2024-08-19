@@ -1,0 +1,24 @@
+{
+    "name": "Yeechee One Half Dark",
+    "foreground": "#DCDFE4",
+    "background": "#282C34",
+    "selectionBackground": "#FFFFFF",
+    "cursorColor": "#FFFFFF",
+
+    "red": "#E05561",
+    "brightRed": "#FF616E",
+    "green": "#8CC265",
+    "brightGreen": "#A5E075",
+    "blue": "#4AA5F0",
+    "brightBlue": "#4DC4FF",
+    "yellow": "#D18F52",
+    "brightYellow": "#F0A45D",
+    "cyan": "#42B3C2",
+    "brightCyan": "#4CD1E0",
+    "purple": "#C162DE",
+    "brightPurple": "#DE73FF",
+    "black": "#3F4451",
+    "brightBlack": "#4F5666",
+    "white": "#D7DAE0",
+    "brightWhite": "#E6E6E6"
+}
